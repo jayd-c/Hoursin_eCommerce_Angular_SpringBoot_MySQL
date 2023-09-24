@@ -1,0 +1,7 @@
+Spring Boot integration with Angular front-end and MySql database.
+Project: Employee Management Application.
+Implementations:-
+ - Add Employees
+ - Search Employees from the database
+ - Edit Employee information
+ - Safely delete/remove employees.
